@@ -3,6 +3,13 @@ import os
 import subprocess
 
 def run_cmd(cmd):
+    cmd = cmd.split('&& git push')[0]
+    cmd = cmd.split('; git push')[0]
+    try:
+        subprocess.run(cmd, shell=True, check=True)
+    except:
+        pass
+    return
     subprocess.run(cmd, shell=True, check=True)
 
 os.chdir(r"C:\Users\ishan\Documents\Projects\Awesome-Blockchain-Based-Prediction-Markets")
