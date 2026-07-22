@@ -13,58 +13,59 @@ Prediction markets allow users to trade contracts on the outcomes of real-world 
 
 This README focuses on prominent platforms (including regulated ones like Kalshi for context) while **emphasizing open-source software, protocols, and self-hostable alternatives** for building, forking, or deploying your own prediction markets.
 
-## 🏢 Prominent Platforms
+## 🏢 SaaS/Hosted Platforms
 
-### Polymarket
-- **Description**: Leading decentralized prediction market on Polygon with high trading volume on politics, crypto, sports, and events. Uses USDC and a central limit order book (CLOB) model.
-- **Website**: [polymarket.com](https://polymarket.com)
-- **Blockchain**: Polygon (Ethereum L2)
-- **Key Features**: Excellent liquidity, intuitive UI, real-time trading.
-- **Open-Source**: Trading bots and tools available on GitHub.
+- ### Polymarket
+  - **Description**: Leading decentralized prediction market on Polygon with high trading volume on politics, crypto, sports, and events. Uses USDC and a central limit order book (CLOB) model.
+  - **Website**: [polymarket.com](https://polymarket.com)
+  - **Blockchain**: Polygon (Ethereum L2)
+  - **Key Features**: Excellent liquidity, intuitive UI, real-time trading.
+  - **Open-Source**: Trading bots and tools available on GitHub.
 
-### Kalshi
-- **Description**: CFTC-regulated U.S. prediction market platform for event contracts across sports, politics, economics, and more.
-- **Website**: [kalshi.com](https://kalshi.com)
-- **Key Features**: Legally accessible in the U.S., strong order book mechanics.
-- **Open-Source**: Primarily proprietary.
+- ### Kalshi
+  - **Description**: CFTC-regulated U.S. prediction market platform for event contracts across sports, politics, economics, and more.
+  - **Website**: [kalshi.com](https://kalshi.com)
+  - **Key Features**: Legally accessible in the U.S., strong order book mechanics.
+  - **Open-Source**: Primarily proprietary.
 
-### Augur
-- **Description**: Pioneering fully decentralized prediction market protocol with a decentralized oracle and dispute resolution system.
-- **Website**: [augur.net](https://augur.net)
-- **Blockchain**: Ethereum
-- **Open-Source**: Fully open-source (GitHub: [AugurProject/augur](https://github.com/AugurProject/augur)). Solidity smart contracts under GPL/MIT licenses.
+- ### Augur
+  - **Description**: Pioneering fully decentralized prediction market protocol with a decentralized oracle and dispute resolution system.
+  - **Website**: [augur.net](https://augur.net)
+  - **Blockchain**: Ethereum
+  - **Open-Source**: Fully open-source (GitHub: [AugurProject/augur](https://github.com/AugurProject/augur)). Solidity smart contracts under GPL/MIT licenses.
 
-### Gnosis Omen (Conditional Tokens Framework)
-- **Description**: Infrastructure layer for prediction markets using conditional tokens. Omen provides a user-facing market interface.
-- **Blockchain**: Ethereum / Gnosis Chain
-- **Open-Source**: Yes — Core contracts and framework are open-source and widely used as building blocks.
+- ### Gnosis Omen (Conditional Tokens Framework)
+  - **Description**: Infrastructure layer for prediction markets using conditional tokens. Omen provides a user-facing market interface.
+  - **Blockchain**: Ethereum / Gnosis Chain
+  - **Open-Source**: Yes — Core contracts and framework are open-source and widely used as building blocks.
 
-### Drift Protocol
-- **Description**: Solana-based perpetuals DEX that expanded into prediction markets and event-based trading.
-- **Website**: [drift.trade](https://drift.trade)
-- **Blockchain**: Solana
-- **Open-Source**: Core protocol components are open-sourced.
+- ### Drift Protocol
+  - **Description**: Solana-based perpetuals DEX that expanded into prediction markets and event-based trading.
+  - **Website**: [drift.trade](https://drift.trade)
+  - **Blockchain**: Solana
+  - **Open-Source**: Core protocol components are open-sourced.
 
-### Azuro
-- **Description**: Decentralized infrastructure protocol providing liquidity, oracles, and tooling for prediction markets and betting apps.
-- **Website**: [azuro.org](https://azuro.org)
-- **Blockchain**: EVM-compatible (Polygon, Base, etc.)
-- **Open-Source**: Strong emphasis — [GitHub: Azuro-protocol](https://github.com/Azuro-protocol). Includes SDKs and Liquidity Tree design.
+- ### Azuro
+  - **Description**: Decentralized infrastructure protocol providing liquidity, oracles, and tooling for prediction markets and betting apps.
+  - **Website**: [azuro.org](https://azuro.org)
+  - **Blockchain**: EVM-compatible (Polygon, Base, etc.)
+  - **Open-Source**: Strong emphasis — [GitHub: Azuro-protocol](https://github.com/Azuro-protocol). Includes SDKs and Liquidity Tree design.
 
-### Hyperliquid
-- **Description**: High-performance on-chain perp DEX (own L1) that added outcome/prediction markets via HIP-4 upgrade.
-- **Website**: [hyperliquid.xyz](https://hyperliquid.xyz)
-- **Blockchain**: Hyperliquid L1
-- **Key Features**: Permissionless market deployment options, high speed, integrated with perps.
-- **Open-Source**: HIP proposals and documentation public; core trading engine varies.
+- ### Hyperliquid
+  - **Description**: High-performance on-chain perp DEX (own L1) that added outcome/prediction markets via HIP-4 upgrade.
+  - **Website**: [hyperliquid.xyz](https://hyperliquid.xyz)
+  - **Blockchain**: Hyperliquid L1
+  - **Key Features**: Permissionless market deployment options, high speed, integrated with perps.
+  - **Open-Source**: HIP proposals and documentation public; core trading engine varies.
 
-### Zeitgeist
-- **Description**: Dedicated prediction market blockchain built on Polkadot/Substrate. Supports complex markets and futarchy governance.
-- **Website**: [zeitgeist.pm](https://zeitgeist.pm)
-- **Open-Source**: Yes — Full protocol, UI, and SDK [](https://github.com/zeitgeistpm).
+- ### Zeitgeist
+  - **Description**: Dedicated prediction market blockchain built on Polkadot/Substrate. Supports complex markets and futarchy governance.
+  - **Website**: [zeitgeist.pm](https://zeitgeist.pm)
+  - **Open-Source**: Yes — Full protocol, UI, and SDK [](https://github.com/zeitgeistpm).
 
 ### Other Notables
-- **Limitless Exchange**, **Trueo**, **Hedgehog Markets**, **MetaDAO**: Specialized or emerging platforms focused on niches like sports, DAOs, or specific event types.
+
+**Limitless Exchange**, **Trueo**, **Hedgehog Markets**, **MetaDAO**: Specialized or emerging platforms focused on niches like sports, DAOs, or specific event types.
 
 ## 💻 Open-Source Software & Self-Hosted Solutions (Primary Emphasis)
 
