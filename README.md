@@ -32,10 +32,10 @@ This README focuses on prominent platforms (including regulated ones like Kalshi
 
 ## 💻 Open-Source Software & Self-Hosted Solutions (Primary Emphasis)
 
-- **Augur** [](https://github.com/AugurProject/augur): Complete decentralized protocol and client for self-deployment.
-- **Zeitgeist** ([zeitgeistpm/zeitgeist](https://github.com/zeitgeistpm/zeitgeist) + UI): Production-ready Substrate chain optimized for prediction markets. Includes SDK for custom implementations.
+- **Augur** [![Stars](https://img.shields.io/github/stars/AugurProject/augur?style=social&color=white)](https://github.com/AugurProject/augur/stargazers) [](https://github.com/AugurProject/augur): Complete decentralized protocol and client for self-deployment.
+- **SocialPredict** [![Stars](https://img.shields.io/github/stars/openpredictionmarkets/socialpredict?style=social&color=white)](https://github.com/openpredictionmarkets/socialpredict/stargazers) [](https://github.com/openpredictionmarkets/socialpredict): Easy-to-deploy, MIT-licensed full-stack platform with React frontend and secure contracts. Ideal for communities and organizations.
+- **Zeitgeist** [![Stars](https://img.shields.io/github/stars/zeitgeistpm/zeitgeist?style=social&color=white)](https://github.com/zeitgeistpm/zeitgeist/stargazers) ([zeitgeistpm/zeitgeist](https://github.com/zeitgeistpm/zeitgeist) + UI): Production-ready Substrate chain optimized for prediction markets. Includes SDK for custom implementations.
 - **Azuro Protocol** [](https://github.com/Azuro-protocol): Modular SDKs, liquidity pools (Liquidity Tree), and tools for building scalable prediction apps.
-- **SocialPredict** [](https://github.com/openpredictionmarkets/socialpredict): Easy-to-deploy, MIT-licensed full-stack platform with React frontend and secure contracts. Ideal for communities and organizations.
 - **Kuest**: Open-source infrastructure for launching Polymarket-like deployments (e.g., on Polygon).
 - **Gnosis Conditional Tokens Framework**: Foundational open contracts for conditional prediction markets.
 - **Open Prediction Markets Organization** [](https://github.com/openpredictionmarkets): Hub for multiple production-ready repos and forks.
