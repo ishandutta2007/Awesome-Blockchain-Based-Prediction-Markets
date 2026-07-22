@@ -85,16 +85,16 @@ See the [Awesome-Prediction-Market-Tools](https://github.com/aarora4/Awesome-Pre
 
 ## 📊 Comparison Table
 
-| Platform/Protocol     | Blockchain              | Trading Model          | Open-Source Level | Key Strengths                     | Best For                     | Pricing (Free Tier Limit) | Valuation / Size |
-|-----------------------|-------------------------|------------------------|-------------------|-----------------------------------|------------------------------|---------------------------|------------------|
-| Polymarket           | Polygon                | CLOB                  | Partial          | Liquidity & UX                   | High-volume trading         | Free (Trading fees apply) | ~ Billion      |
-| Hyperliquid          | Hyperliquid L1         | Outcomes (HIP-4)      | Partial          | Speed, perps integration         | On-chain high-throughput    | Free (Trading fees apply) | ~ Billion      |
-| Gnosis/Omen          | Ethereum/Gnosis        | Conditional Tokens    | High             | Modular infrastructure           | Custom market building      | Free (Open Source)        | ~ Million    |
-| Kalshi               | Regulated (Off-chain)  | Order Book            | Low              | U.S. regulatory compliance       | Legal U.S. events           | Free (Trading fees apply) | ~ Million    |
-| Azuro                | EVM                    | AMM / Liquidity Pool  | High             | SDKs, liquidity tools            | Sports & developer apps     | Free (Open Source)        | ~ Million     |
-| Augur                | Ethereum               | Oracle + Disputes     | Full             | Full decentralization            | Permissionless oracles      | Free (Open Source)        | ~ Million     |
-| Zeitgeist            | Polkadot/Substrate     | Dedicated Chain       | Full             | Futarchy, scalability            | Governance & complex PMs    | Free (Open Source)        | ~ Million      |
-| SocialPredict        | Flexible               | Full Stack            | Full (MIT)       | Easy deployment                  | Self-hosted / communities   | Free (Open Source)        | N/A (OSS)        |
+| Platform/Protocol     | Blockchain              | Trading Model          | Open-Source Level | Key Strengths                     | Best For                     | Pricing | Free Tier Limit | Valuation / Size |
+|-----------------------|-------------------------|------------------------|-------------------|-----------------------------------|------------------------------|---------|-----------------|------------------|
+| Polymarket           | Polygon                | CLOB                  | Partial          | Liquidity & UX                   | High-volume trading         | Free    | N/A (Trading fees apply) | ~ Billion      |
+| Hyperliquid          | Hyperliquid L1         | Outcomes (HIP-4)      | Partial          | Speed, perps integration         | On-chain high-throughput    | Free    | N/A (Trading fees apply) | ~ Billion      |
+| Gnosis/Omen          | Ethereum/Gnosis        | Conditional Tokens    | High             | Modular infrastructure           | Custom market building      | Free    | N/A (Open Source)        | ~ Million    |
+| Kalshi               | Regulated (Off-chain)  | Order Book            | Low              | U.S. regulatory compliance       | Legal U.S. events           | Free    | N/A (Trading fees apply) | ~ Million    |
+| Azuro                | EVM                    | AMM / Liquidity Pool  | High             | SDKs, liquidity tools            | Sports & developer apps     | Free    | N/A (Open Source)        | ~ Million     |
+| Augur                | Ethereum               | Oracle + Disputes     | Full             | Full decentralization            | Permissionless oracles      | Free    | N/A (Open Source)        | ~ Million     |
+| Zeitgeist            | Polkadot/Substrate     | Dedicated Chain       | Full             | Futarchy, scalability            | Governance & complex PMs    | Free    | N/A (Open Source)        | ~ Million      |
+| SocialPredict        | Flexible               | Full Stack            | Full (MIT)       | Easy deployment                  | Self-hosted / communities   | Free    | N/A (Open Source)        | N/A (OSS)        |
 
 ## 🚀 Getting Started with Open-Source Projects
 
