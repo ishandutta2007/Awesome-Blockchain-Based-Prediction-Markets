@@ -5,8 +5,12 @@
 # Awesome Blockchain-Based Prediction Markets: A Comprehensive Guide & Open Source Directory
 
 <div align="center">
-<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</div>
+
+
 ## Top Blockchain-Based Prediction Markets & Open-Source Alternatives
 
 Prediction markets allow users to trade contracts on the outcomes of real-world events such as elections, sports, economics, and more. Blockchain-based platforms bring decentralization, transparency, censorship resistance, and global accessibility, often leveraging oracles for resolution.
@@ -45,19 +49,6 @@ This README focuses on prominent platforms (including regulated ones like Kalshi
   - Custom implementations (e.g., Arc Prediction Markets with UMA Oracle).
 
 See the [Awesome-Prediction-Market-Tools](https://github.com/aarora4/Awesome-Prediction-Market-Tools) list for more SDKs, bots, and infrastructure.
-
-## 📊 Comparison Table
-
-| Platform/Protocol     | Blockchain              | Trading Model          | Open-Source Level | Key Strengths                     | Best For                     | Pricing | Free Tier Limit | Company Size |
-|-----------------------|-------------------------|------------------------|-------------------|-----------------------------------|------------------------------|---------|-----------------|--------------|
-| Polymarket           | Polygon                | CLOB                  | Partial          | Liquidity & UX                   | High-volume trading         | Free    | N/A (Trading fees apply) | ~$1 Billion  |
-| Hyperliquid          | Hyperliquid L1         | Outcomes (HIP-4)      | Partial          | Speed, perps integration         | On-chain high-throughput    | Free    | N/A (Trading fees apply) | ~$1 Billion  |
-| Gnosis/Omen          | Ethereum/Gnosis        | Conditional Tokens    | High             | Modular infrastructure           | Custom market building      | Free    | N/A (Open Source)        | ~$400 Million|
-| Kalshi               | Regulated (Off-chain)  | Order Book            | Low              | U.S. regulatory compliance       | Legal U.S. events           | Free    | N/A (Trading fees apply) | ~$100 Million|
-| Augur                | Ethereum               | Oracle + Disputes     | Full             | Full decentralization            | Permissionless oracles      | Free    | N/A (Open Source)        | ~$30 Million |
-| Azuro                | EVM                    | AMM / Liquidity Pool  | High             | SDKs, liquidity tools            | Sports & developer apps     | Free    | N/A (Open Source)        | ~$20 Million |
-| Zeitgeist            | Polkadot/Substrate     | Dedicated Chain       | Full             | Futarchy, scalability            | Governance & complex PMs    | Free    | N/A (Open Source)        | ~$5 Million  |
-| SocialPredict        | Flexible               | Full Stack            | Full (MIT)       | Easy deployment                  | Self-hosted / communities   | Free    | N/A (Open Source)        | N/A (OSS)    |
 
 ## 🚀 Getting Started with Open-Source Projects
 
